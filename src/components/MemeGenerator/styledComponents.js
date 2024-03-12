@@ -30,7 +30,7 @@ export const MemeContainer = styled.div`
 export const TextContent = styled.p`
   font-size: ${props => props.activeOptionId};
 `
-export const MemeGeneratorForm = styled.div`
+export const MemeGeneratorForm = styled.form`
   display: flex;
   flex-direction: column;
 `
